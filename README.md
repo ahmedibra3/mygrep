@@ -1,4 +1,7 @@
-# mygrep
+Fawry Internship Task Solution
+---
+#  Q1
+## mygrep
 
 A mini version of the `grep` command, implemented in Bash.
 
@@ -6,7 +9,7 @@ This script allows you to search for a string in a text file with additional opt
 
 ---
 
-## Features
+### Features
 - Case-insensitive search.
 - Show line numbers with matches (`-n` option).
 - Invert match results (`-v` option).
@@ -15,13 +18,13 @@ This script allows you to search for a string in a text file with additional opt
 
 ---
 
-## Usage
+### Usage
 
 ```bash
 ./mygrep.sh [options] search_string filename
 ```
 
-# Options:
+### Options:
 
 -n: Show line numbers.
 
@@ -29,7 +32,7 @@ This script allows you to search for a string in a text file with additional opt
 
 --help: Display usage information.
 ---
-## Test Results
+### Test Results
 1. Basic Search
   ```bash
   ./mygrep.sh hello testfile.txt
@@ -83,6 +86,13 @@ This script allows you to search for a string in a text file with additional opt
      ![helpcase](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/helpCase.png)
 
 ---
+---
+# Q2
+
+1. Verify DNS Resolution
+   ![DnsHosts](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/DNS-servers.jpg)
+   ![DNS-resolution](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/DNS-resolution.jpg)
+   ![DNS resolution using Google's public DNS server](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/DNS%20resolution%20using%20Google's%20public%20DNS%20server.jpg)
 
 
 
