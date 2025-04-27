@@ -89,7 +89,7 @@ This script allows you to search for a string in a text file with additional opt
 ---
 # Q2
 
-##1. Verify DNS Resolution
+1. Verify DNS Resolution
    
    ![DnsHosts](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/DNS-servers.jpg)
    ![DNS-resolution](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/DNS-resolution.jpg)
