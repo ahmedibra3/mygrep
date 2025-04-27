@@ -96,6 +96,22 @@ This script allows you to search for a string in a text file with additional opt
    ![DNS resolution using Google's public DNS server](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/DNS%20resolution%20using%20Google's%20public%20DNS%20server.jpg)
 
 
+2. Diagnose Service Reachability
+
+  ![usecurl](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/curl.jpg)
+
+3. Propose and Apply Fixes
+
+  ![hosts](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/updatedHosts.jpg)
+  ![firewall](https://github.com/ahmedibra3/mygrep/blob/main/Screenshots/firewall.jpg)
+
+
+
+
+   
+   
+
+
 
    
   
